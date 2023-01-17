@@ -72,7 +72,7 @@ function getprotocol {
 function persistant {
 echo ""
 echo "-----------------------------------"
-echo "Do you want to make it persistant?"
+echo "Do you want to make it persistant? yes/no"
 echo "-----------------------------------"
 echo ""
 read option
