@@ -9,10 +9,10 @@ Pre-requisite:
 - The syslog server's IP address or hostname
 
 Quick start:
--Login to Sonoma NTP Device
--Download and Upload the "syslog4sonoma.sh" file to the NTP device.
--Give execute permission: "chmod +x syslog4sonoma.sh"
--Execute it: "./syslog4sonoma.sh"
+- Login to Sonoma NTP Device
+- Download and Upload the "syslog4sonoma.sh" file to the NTP device.
+- Give execute permission: "chmod +x syslog4sonoma.sh"
+- Execute it: "./syslog4sonoma.sh"
 
 Please note:
 - This script is provided as is and is not officially supported by Sonoma.
